@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0586400a.chunk.css",
+    "main.js": "/static/js/main.a36cabd1.chunk.js",
+    "main.js.map": "/static/js/main.a36cabd1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f9811ef4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f9811ef4.js.map",
+    "static/css/2.d18a4483.chunk.css": "/static/css/2.d18a4483.chunk.css",
+    "static/js/2.fbdde2c6.chunk.js": "/static/js/2.fbdde2c6.chunk.js",
+    "static/js/2.fbdde2c6.chunk.js.map": "/static/js/2.fbdde2c6.chunk.js.map",
+    "static/js/3.ae1057df.chunk.js": "/static/js/3.ae1057df.chunk.js",
+    "static/js/3.ae1057df.chunk.js.map": "/static/js/3.ae1057df.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d18a4483.chunk.css.map": "/static/css/2.d18a4483.chunk.css.map",
+    "static/css/main.0586400a.chunk.css.map": "/static/css/main.0586400a.chunk.css.map",
+    "static/js/2.fbdde2c6.chunk.js.LICENSE.txt": "/static/js/2.fbdde2c6.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/Home.css": "/static/media/pexels-cristian-dina-1851415.50ed736a.jpg",
+    "static/media/Signup.css": "/static/media/pexels-evie-shaffer-2395251.4e53f08a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9811ef4.js",
+    "static/css/2.d18a4483.chunk.css",
+    "static/js/2.fbdde2c6.chunk.js",
+    "static/css/main.0586400a.chunk.css",
+    "static/js/main.a36cabd1.chunk.js"
+  ]
+}
